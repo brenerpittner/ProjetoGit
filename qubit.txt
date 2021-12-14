@@ -1,0 +1,10 @@
+O texto abaixo era sobre qubit antes do git merge.
+
+O qubit é o análogo quântico do bit clássico, 
+definido como a menor unidade em que a informação pode ser codificada, 
+armazenada e transmitida nos computadores atuais e nos sistemas de telecomunicações, 
+como fibras ópticas ou redes sem fio. Há, no entanto, 
+diferenças significativas entre os dois conceitos.
+
+Referência
+https://revistapesquisa.fapesp.br/a-nova-onda-dos-qubits/

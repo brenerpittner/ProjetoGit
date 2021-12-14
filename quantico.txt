@@ -1,0 +1,9 @@
+O texto abaixo era sobre computador quantico antes do git merge.
+
+Um computador quântico é um dispositivo que executa cálculos fazendo uso direto 
+de propriedades da mecânica quântica, tais como sobreposição e interferência. 
+Teoricamente, computadores quânticos podem ser implementados e o mais desenvolvido atualmente, 
+o D-Wave Two, trabalha com 512 qubits de informação.
+
+Referência
+https://pt.wikipedia.org/wiki/Computador_qu%C3%A2ntico
